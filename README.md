@@ -1,4 +1,4 @@
-# GitHub Contribution Graph Colour Changer
+# Colours
 Modifies your GitHub contribution graph colour.
 
 _Example:_
@@ -7,4 +7,4 @@ _Example:_
 
 ### Installation
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser of choice.
-2. Click [Here](https://raw.githubusercontent.com/dizzyf00d/GitHub-Graph-Colour/main/ContributionGraphColourChange.user.js) to install the script.
+2. Click [Here](https://raw.githubusercontent.com/dizzyf00d/Colours/main/ContributionGraphColourChange.user.js) to install the script.
